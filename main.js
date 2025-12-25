@@ -1,3 +1,5 @@
 console.log("hello");
 console.log("world");
-console.log("nhanhmai")
+console.log("nhanhmai");
+console.log("test git");
+
